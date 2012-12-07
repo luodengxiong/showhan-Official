@@ -1,0 +1,14 @@
+﻿	   	<div class="header">
+		   	<div class="header-in">
+		   		<div id="logo">
+		   		</div>
+		   		<ul id="nav">
+		   			<li><a href="services.shtml">服务SERVICES</a></li>
+		   			<li><a href="solutions.shtml">方案SOLUTIONS</a></li>
+		   			<li><a href="products.shtml">产品PRODUCTS</a></li>
+		   			<li><a href="demo.shtml">试用DEMO</a></li>
+		   			<li><a href="order.shtml">购买ORDER</a></li>
+		   			<li><a href="about.shtml">关于我们ABOUT</a></li>
+		   		</ul>
+		   	</div>
+	   	</div>
